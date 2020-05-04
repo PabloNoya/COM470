@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 04 01:55:18 BOT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0171-de40-c3b9-000007cf00b8 
+on database directory memory:/run/media/pablo/Datos/Documents/U/_7mo/COM470/boletoAereoApp/testdb with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/home/pablo/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_242-b08
+user.dir=/run/media/pablo/Datos/Documents/U/_7mo/COM470/boletoAereoApp
+os.name=Linux
+os.arch=amd64
+os.version=5.4.35-1-MANJARO
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
